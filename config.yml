@@ -1,4 +1,3 @@
 # config.yml
 slack_bot_token: xoxb-FAKEtoken1234567890
-private_key: -----BEGIN PRIVATE KEY-----\nFAKEKEYEXAMPLE123\n-----END PRIVATE KEY-----
 api_token: fake_api_token_123456
